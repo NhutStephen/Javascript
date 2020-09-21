@@ -12,3 +12,5 @@ There are 2 data's type: NULL and UNDEFINIED
 2. undefined: for the variable had been declared but haven't define value for it
 ==> null is declared and undefined is not
 ==> null != undefined (example from 02-datatype.html) but level null == undefined
+==> null type is object and undefined type is undefined
+===> I think people would use null to clear value (most purpose???)
