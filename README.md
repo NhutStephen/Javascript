@@ -14,3 +14,6 @@ There are 2 data's type: NULL and UNDEFINIED
 ==> null != undefined (example from 02-datatype.html) but level null == undefined
 ==> null type is object and undefined type is undefined
 ===> I think people would use null to clear value (most purpose???)
+
+## Lesson 3: Array
+Follow 03-array.html is enough
