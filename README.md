@@ -17,3 +17,7 @@ There are 2 data's type: NULL and UNDEFINIED
 
 ## Lesson 3: Array
 Follow 03-array.html is enough
+
+## Lesson 4: Create a function and init into html file
+Follow 04-function folder is enough
+===> This is very simple, call method outside and init into main project (Make code cleaner and easy to track when working with many features with different methods)
