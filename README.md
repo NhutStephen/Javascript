@@ -34,3 +34,9 @@ Arrow Function: ^
 ## Lesson 6: Classes
 - Basic programming's knowledge
 - Think of this: many objects with the same value => Class will help it => Just call it when need to use
+
+## Lesson 7: Conditional
+- If Else only
+
+## Lesson 8: Complex Conditional
+- Still If Else but a litte bit math in it (follow 08-complex-conditional folder to more information)
