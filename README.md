@@ -21,3 +21,12 @@ Follow 03-array.html is enough
 ## Lesson 4: Create a function and init into html file
 Follow 04-function folder is enough
 ===> This is very simple, call method outside and init into main project (Make code cleaner and easy to track when working with many features with different methods)
+
+## Lesson 5: Anonymous Function and Arrow Function
+Common: use to declare a function
+Anonymous Function: question in here is: when do we use it (answer for why too)
+Arrow Function: ^
+
+## Lesson 6: Objects
+- Object is something like human for example, it will include with these definition (gender, name, etc)
+- Had learnt how to define in JS and how to log it out and use it
