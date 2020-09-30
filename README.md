@@ -40,3 +40,9 @@ Arrow Function: ^
 
 ## Lesson 8: Complex Conditional
 - Still If Else but a litte bit math in it (follow 08-complex-conditional folder to more information)
+
+## Lesson 9: Loop basic (Using For)
+- Simple loop using For
+
+## Lesson 10: Loop forever (While and Do While)
+- Follow 10-loop-forever
